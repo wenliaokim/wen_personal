@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/wen_personal/static/css/main.404fdf77.css",
+    "main.css": "/wen_personal/static/css/main.7d6c8233.css",
     "main.js": "/wen_personal/static/js/main.136bc21c.js",
     "static/js/787.47e45aae.chunk.js": "/wen_personal/static/js/787.47e45aae.chunk.js",
     "static/media/sysu.jpg": "/wen_personal/static/media/sysu.db89d18ea106322e9b49.jpg",
@@ -11,12 +11,12 @@
     "static/media/seattlerHub.png": "/wen_personal/static/media/seattlerHub.99b8eb41fce138467ae1.png",
     "static/media/connect4.png": "/wen_personal/static/media/connect4.ccd30bb6eb4840144961.png",
     "index.html": "/wen_personal/index.html",
-    "main.404fdf77.css.map": "/wen_personal/static/css/main.404fdf77.css.map",
+    "main.7d6c8233.css.map": "/wen_personal/static/css/main.7d6c8233.css.map",
     "main.136bc21c.js.map": "/wen_personal/static/js/main.136bc21c.js.map",
     "787.47e45aae.chunk.js.map": "/wen_personal/static/js/787.47e45aae.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.404fdf77.css",
+    "static/css/main.7d6c8233.css",
     "static/js/main.136bc21c.js"
   ]
 }
