@@ -68,7 +68,8 @@
 
 .projectContent img {
     width: 40%;
-    height:fit-content;
+    /* height:fit-content; */
+    height: auto;
     border: 2px solid white;
 }
 
