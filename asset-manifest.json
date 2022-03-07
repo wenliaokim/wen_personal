@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wen_personal/static/css/main.404fdf77.css",
+    "main.js": "/wen_personal/static/js/main.136bc21c.js",
+    "static/js/787.47e45aae.chunk.js": "/wen_personal/static/js/787.47e45aae.chunk.js",
+    "static/media/sysu.jpg": "/wen_personal/static/media/sysu.db89d18ea106322e9b49.jpg",
+    "static/media/neu.jpg": "/wen_personal/static/media/neu.fb580f93b9ee4d2e3830.jpg",
+    "static/media/battleship.png": "/wen_personal/static/media/battleship.1e4302710ad954c43722.png",
+    "static/media/jobSearch.png": "/wen_personal/static/media/jobSearch.8ccb36574ce1df5360eb.png",
+    "static/media/WelcomeImg.jpg": "/wen_personal/static/media/WelcomeImg.a85792f99e8464913764.jpg",
+    "static/media/seattlerHub.png": "/wen_personal/static/media/seattlerHub.99b8eb41fce138467ae1.png",
+    "static/media/connect4.png": "/wen_personal/static/media/connect4.ccd30bb6eb4840144961.png",
+    "index.html": "/wen_personal/index.html",
+    "main.404fdf77.css.map": "/wen_personal/static/css/main.404fdf77.css.map",
+    "main.136bc21c.js.map": "/wen_personal/static/js/main.136bc21c.js.map",
+    "787.47e45aae.chunk.js.map": "/wen_personal/static/js/787.47e45aae.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.404fdf77.css",
+    "static/js/main.136bc21c.js"
+  ]
+}
