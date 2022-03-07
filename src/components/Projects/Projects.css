@@ -1,0 +1,93 @@
+.panel.projects {
+    width: 100%;
+    height: 100vh;
+    background-color: #7f5539;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 200px;
+
+}
+
+.boardTitle {
+    padding: 90px 0 20px 0;
+    margin: 0;
+    text-align: center;
+    font-size: 2.5em;
+    font-family: 'Volkhov', serif;
+    letter-spacing: 0.2em;
+    color: white;
+}
+
+.board {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+    margin-bottom: 100px;
+}
+
+.leftButton {
+    font-size: 2em;
+    padding: 20px 0 10px 10px;
+    color: aliceblue;
+    background-color: #b17044b1;
+    border: none;
+    cursor: pointer;
+}
+
+.rightButton {
+    font-size: 2em;
+    padding: 20px 10px 10px 0;
+    color: aliceblue;
+    background-color: #b17044b1;
+    border: none;
+    cursor: pointer;
+}
+
+.leftButton:hover, .rightButton:hover {
+    background-color: aliceblue;
+    color: #181716;
+}
+
+.displayBg {
+    width: 70%;
+    height: 60vh;
+    /* background-color: #f8f1ea; */
+    display: flex;
+    align-items: center;
+    border: 2px solid black;
+}
+
+.projectContent {
+    display: flex;
+    gap: 50px;
+    justify-content: center;
+    padding-left: 5%;
+    padding-right: 5%;
+    align-items: center;
+}
+
+.projectContent img {
+    width: 40%;
+    height:fit-content;
+    border: 2px solid white;
+}
+
+.projectText {
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+
+.projectText h1 {
+    margin-top: 0;
+    padding-bottom: 20px;
+    color: #1d3557;
+}
+
+.projectDetails {
+    display: flex;
+    flex-direction: column;
+    padding-top: 20px;
+    gap: 10px;
+    font-size: 1em;
+}

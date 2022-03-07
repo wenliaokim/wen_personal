@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Libre+Baskerville&display=swap');
+
+.panel.skills {
+    width: 100%;
+    height: 100vh;
+    background-color: #3d5a80;
+    font-family: 'Roboto', sans-serif;
+    margin-bottom: 200px;
+}
+
+.skills {
+    display: flex;
+    gap: 10%;
+    align-items: center;
+}
+
+.skillsTitle {
+    font-family: 'Volkhov', serif;
+    font-size: 2.5em;
+    letter-spacing: 0.2em;
+    color: #013a63;
+    padding: 10% 20px;
+    padding-left: 10%;
+    background-color: #89c2d9;
+}
+
+.skillSet {
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.languages, .framework, .database {
+    display: flex;
+    justify-content: center;
+    gap: 8%;
+    align-items: center;
+}
+
+.languages h2, .framework h2, .database h2 {
+    color: aliceblue;
+    font-family: 'Libre Baskerville', serif;
+    font-size: 1.2em;
+}
+
+.programLangs, .fwSkills, .dbSkills {
+    display: flex;
+    gap: 30px;
+    justify-content: center;
+}
+
+.langGroup {
+    text-align: center;
+}
+
+.programLangs h1, .fwSkills h1, .dbSkills h1 {
+    color: aliceblue;
+    font-size: 3em;
+    margin-bottom: 5px;
+}
+
+.langGroup h3 {
+    font-family: 'Josefin Sans', sans-serif;
+    color: aliceblue;
+}
+

@@ -1,0 +1,51 @@
+.panel.experience {
+    width: 100%;
+    height: 100vh;
+    background-color: rgb(196, 79, 79);
+    background-color: #eaf4f4;
+    margin-bottom: 200px;
+    color: #113627;
+}
+
+.experience {
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: center;
+    align-items: center;
+    padding-left: 15%;
+    padding-right: 8%;
+    gap: 20%;
+}
+
+.experience h1 {
+    font-size: 2.5em;
+    font-family: 'Volkhov', serif;
+    letter-spacing: 0.1em;
+}
+
+
+.job {
+    color: white;
+    font-size: 1.1em;
+    font-family: 'Roboto', sans-serif;
+    letter-spacing: 0.1em;
+    margin: 20px 0;
+    padding: 40px 60px;
+    background-color: #20533f;
+    border-radius: 10px;
+    box-shadow:  0.2em 0.2em 0.2em #2a634c,
+                -0.2em 0.2em 0.2em #2a634c;
+}
+
+.job h2 {
+    margin-top: 0;
+    font-family: 'Josefin Sans', sans-serif;
+}
+
+.job a {
+    color: white;
+}
+
+.job div {
+    margin: 10px 0;
+}
